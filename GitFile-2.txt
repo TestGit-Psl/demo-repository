@@ -1,0 +1,2 @@
+where file-2 are stored?
+Ans: File-2 stored in different branch
